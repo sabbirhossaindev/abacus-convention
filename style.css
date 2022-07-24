@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans:wght@300&family=Poppins:ital,wght@0,500;1,500&family=Shadows+Into+Light&family=Yellowtail&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.clients{
+    box-shadow: 2px 2px 2px 2px #eae9e9;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.my-img{
+    height: 140px;
+    width: 140px;
+    border-radius: 70px;
+}
+.my-footer{
+    background-color: #480f80;
+    color: white;
+}
